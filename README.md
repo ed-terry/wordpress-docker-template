@@ -18,8 +18,8 @@ A minimal, ready-to-use Docker Compose setup for spinning up a WordPress site wi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/ed-terry/wordpress-docker-template.git
+   cd wordpress-docker-template
    ```
 
 2. **Start the containers**
